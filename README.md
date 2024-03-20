@@ -1,7 +1,5 @@
 # Hello 👋
-
-**` I'm currently a student, a person with a love for learning new skills and mastering them. I'm mainly skilled in OOP and web design, but I am also interested in designing UX/UI interfaces and creating eye-pleasing 'stuff' to boot. `**
-
+<!--
 #
 
 ### PROGRAMMING AND STUDY
@@ -69,6 +67,7 @@
     </tr>
 </table>
 
+-->
 <!--
 **nataliaprazmo/nataliaprazmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
