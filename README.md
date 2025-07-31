@@ -1,5 +1,4 @@
 <a href="https://nomzarp.notion.site/Portfolio-2037b2a382a0801aaa26e94872ffca26"><img src="https://img.shields.io/badge/👉_Click%20→%20Portfolio-blueviolet?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge" /></a>
-<a href="https://drive.google.com/file/d/1OLm_xxLqNNNCTjXyHzx30IehdOuVjryW/view?usp=sharing"><img src="https://img.shields.io/badge/📄_CV-slateblue?style=for-the-badge&logo=download&logoColor=white" alt="Portfolio Badge" /></a>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="14"/> [GitLab](https://gitlab.com/nataliaprazmo)
 📧 prazmonatalia@gmail.com
