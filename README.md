@@ -75,3 +75,8 @@ I'm a computer science master's student, currently wrapping up my degree. For th
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=fff)
 
 ---
+
+### GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=nataliaprazmo&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaprazmo&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
