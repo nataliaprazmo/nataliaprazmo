@@ -5,7 +5,7 @@
 
 ### 👋 Hello there!
 
-I'm a computer science master's student, currently wrapping up my degree. For the past few years, I've been combining UX/UI design with frontend development – I love when aesthetics meet functionality. I'm full of ideas and always looking for new ways to create.
+I'm a computer science graduate with a passion for combining UX/UI design and frontend development - I love when aesthetics meet functionality. I'm full of ideas and always looking for new ways to create.
 
 -   🐱 I like cats, fresh air, and staring at the sky 🌌
 -   🌿 After hours: I care for plants, 🎬 watch, 🎨 draw, and explore creativity in all forms ✨
@@ -37,10 +37,19 @@ I'm a computer science master's student, currently wrapping up my degree. For th
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Other Languages
+
+> used mainly for quick algorithms and scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### UX methods and technics
 
@@ -76,9 +85,12 @@ I'm a computer science master's student, currently wrapping up my degree. For th
 ![NetBeans](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=fff)
 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+
 ---
 
 ### GitHub Stats:
+
 ![](https://nirzak-streak-stats.vercel.app/?user=nataliaprazmo&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaprazmo&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
